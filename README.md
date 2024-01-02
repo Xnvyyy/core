@@ -109,3 +109,5 @@ ESX for some scripts but its mainly STANDALONE (esx and qb)
 🤍 basic tackle script
 
 🤍 hud settings
+
+🤍 resolution detection
